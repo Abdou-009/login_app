@@ -2,9 +2,9 @@
 
 This is a simple authentication app built with Flutter, using the BLoC (Business Logic Component) pattern for state management and Firebase for authentication.
 <br><br>
-<img src="/Images/img1.jpg" alt="Screenshot 1" width="250">
-<img src="/Images/img2.jpg" alt="Screenshot 2" width="250">
-<img src="/Images/img3.jpg" alt="Screenshot 3" width="250">
+<img src="/Images/img1.jpg" alt="Screenshot 1" width="200">
+<img src="/Images/img2.jpg" alt="Screenshot 2" width="200">
+<img src="/Images/img3.jpg" alt="Screenshot 3" width="200">
 <br>
 ## Features
 
