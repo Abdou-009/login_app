@@ -1,6 +1,6 @@
 # Authentication App using Bloc and Firebase
 
-This is a simple authentication app built with Flutter, using the BLoC (Business Logic Component) pattern for state management and Firebase for authentication.
+This is a authentication app built with Flutter, using the BLoC (Business Logic Component) pattern for state management and Firebase for authentication.
 <br><br>
 <img src="/Images/img1.jpg" alt="Screenshot 1" width="200">
 <img src="/Images/img2.jpg" alt="Screenshot 2" width="200">
